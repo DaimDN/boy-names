@@ -1,0 +1,35 @@
+{
+    "name": "boy-names",
+    "version": "1.0.0",
+    "description": "Random Names generator for your baby boys. ",
+    "license": "MIT",
+    "repository": "DaimDN/boy-names",
+    "author": {
+      "name": "Daim Mughal;",
+      "email": "abdul.daim26@gmail.com"
+    },
+    "engines": {
+      "node": ">=4"
+    },
+    "scripts": {
+      "test": ""
+    },
+    "files": [
+      "index.js",
+      "license",
+      "names.txt",
+      "readme.md",
+      "name.json",
+      "package.json",
+      "source/writer.js"
+    ],
+    "keywords": [
+      "name generator",
+      "boy name",
+      "baby girls",
+      "names",
+      "boy-name-generator",
+      "boysname",
+      "name generator"
+    ]
+  }
